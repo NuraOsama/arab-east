@@ -1375,6 +1375,8 @@ z-index: 1;
   }*/
   .about-sec .image-icon img{
 
+    position:relative;
+    z-index:2;
     width: 60px;
     height: 60px;
     display: flex;
@@ -1399,11 +1401,11 @@ z-index: 1;
     margin: 0 auto;
     width: 95%;
     height: 95%;
-    border: 5px solid #eff4f5;
     border: 7px solid #daf9ff;
     box-shadow: 0 0 10px rgb(7 ,141 ,173 ,0.57);
     background-color:#fff;
     transform:scale(1) rotate(45deg);
+    z-index:1
 }
 
 .about-sec .content:hover .image-icon:before{
