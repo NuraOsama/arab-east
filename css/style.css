@@ -1422,7 +1422,6 @@ z-index: 1;
     background: linear-gradient(to bottom left, #2ae3f3 , #223b95);
     transform: rotate(-45deg);
     animation:rotate 3s Infinite linear forwards;
-    z-index: -2;
     
   }
 
@@ -1442,6 +1441,12 @@ z-index: 1;
     color:#0779bf;
 
   }
+  .about-sec  p {
+   
+    color: #777777 !important;
+    
+    
+   }
  
  
   /*--//about--*/
