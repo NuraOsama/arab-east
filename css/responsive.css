@@ -126,7 +126,7 @@
         border-radius: 0;
         background: linear-gradient(to top , #00c6d7 , #047596 );
         transform: rotate(0);
-        border-radius: 0 0 50% 50%;
+        border-radius: 0 0 30% 30%;
 
     }
 
@@ -408,7 +408,7 @@
         border-radius: 0;
         background: linear-gradient(to top , #00c6d7 , #047596 );
         transform: rotate(0);
-        border-radius: 0 0 50% 50%;
+        border-radius: 0 0 30% 30%;
 
     }
 
